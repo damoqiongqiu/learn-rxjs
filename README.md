@@ -1,28 +1,38 @@
 # LearnRxjs
+## 备注
+learn-***是一个系列教学项目用的实例源代码，全部链接请点这里：
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+- https://gitee.com/learn-angular-series/learn-component
+- https://gitee.com/learn-angular-series/learn-directive
+- https://gitee.com/learn-angular-series/learn-router
+- https://gitee.com/learn-angular-series/learn-module
+- https://gitee.com/learn-angular-series/learn-form
+- https://gitee.com/learn-angular-series/learn-service
+- https://gitee.com/learn-angular-series/learn-test
+- https://gitee.com/learn-angular-series/learn-webpack
 
-## Development server
+如果你需要一个更复杂、更完整一点的例子，请试试NiceFish：https://gitee.com/mumu-osc/NiceFish
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+如果你想看到关于Angular的更多资源，请点这里：https://damoqiongqiu.github.io
 
-## Code scaffolding
+## 在线交流QQ群
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8db5ed802cbddbf6432d7ba7dc4f2a316be020442491eb41cbfb1a12434e8cc7" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular-1区</a>
 
-## Build
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbfcd79e7e90939b0e2c519f475fac4792985ce2abc5ad45ec5e06ffcfe944dd" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular-2区</a>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=639229c8b6ad0c3a9a8f381dddf5d7785780b20d8c37eb25c91ac73ea7d37a5f" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular-3区</a>
 
-## Running unit tests
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=12add102af3f67910bdc0de753dee10ebada08ab485af7e38f4dfa0ee27476f7" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular-4区</a>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1293a6494fb306ea29d281e320a8f4ef82285fa5300f73118e6ff7a79ce76036"
+class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i>
+Angular-5区-楼兰
+</a>
 
-## Running end-to-end tests
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fcd880ba919983dc85690642d48cf00ad0affd8d35de5f30542c895e622a8ab8"
+class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i>
+Angular-6区-凉州
+</a>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=5d6b8c5296e4806142b8422ae7abca6f27b9b9b992a4dac80dc1392644e8970a"><i class="fa fa-qq" aria-hidden="true"></i>脚本娃娃-桃花岛</a>
